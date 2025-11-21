@@ -1,0 +1,5 @@
+1|sopa|150|grande
+2|sushi|240|mediano
+3|bebida|50|grande
+4|pollo|180|grande
+5|pollo enchiloso|150|grande
